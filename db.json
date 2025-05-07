@@ -1,0 +1,129 @@
+{
+    "doctors": [
+        {
+            "id": 1,
+            "img": "https://randomuser.me/api/portraits/women/44.jpg",
+            "name": "dr. Olivia Wilson",
+            "type": "Consultant - Physiotherapy",
+            "reviews": "4.9 (37 Reviews)"
+        },
+        {
+            "id": 2,
+            "img": "https://randomuser.me/api/portraits/men/22.jpg",
+            "name": "dr. Jonathan Patterson",
+            "type": "Consultant - Internal Medicine",
+            "reviews": "4.9 (52 Reviews)"
+        },
+        {
+            "id": 2,
+            "img": "https://randomuser.me/api/portraits/men/35.jpg",
+            "name": "dr. Ian Kyle",
+            "type": "Consultant - Nurse",
+            "reviews": "4.9 (52 Reviews)"
+        }
+    ],
+    "places": [
+        {
+            "id": 1,
+            "placeName": "Consultation"
+        },
+        {
+            "id": 2,
+            "placeName": "Dentist"
+        },
+        {
+            "id": 3,
+            "placeName": "Cardiologist"
+        },
+        {
+            "id": 4,
+            "placeName": "Hospital"
+        },
+        {
+            "id": 5,
+            "placeName": "Emergency"
+        },
+        {
+            "id": 6,
+            "placeName": "Laboratory"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "lugar": "Resort"
+        },
+        {
+            "id": 1,
+            "lugar": "Homestay"
+        },
+        {
+            "id": 1,
+            "lugar": "Hotel"
+        },
+        {
+            "id": 1,
+            "lugar": "Lodge"
+        },
+        {
+            "id": 1,
+            "lugar": "Villa"
+        },
+        {
+            "id": 1,
+            "lugar": "HomesApartmenttay"
+        },
+        {
+            "id": 1,
+            "lugar": "Hostel"
+        },
+        {
+            "id": 1,
+            "lugar": "See all"
+        }
+    ],
+    "destino": [
+        {
+            "id": 1,
+            "url": "https://source.unsplash.com/1600x900/?beach"
+        },
+        {
+            "id": 2,
+            "url": "https://source.unsplash.com/1600x900/?mountains"
+        },
+        {
+            "id": 3,
+            "url": "https://source.unsplash.com/1600x900/?city"
+        },
+        {
+            "id": 4,
+            "url": "https://source.unsplash.com/1600x900/?forest"
+        },
+        {
+            "id": 5,
+            "url": "https://source.unsplash.com/1600x900/?desert"
+        }
+    ],
+    "recomendacoes": [
+        {
+            "id": 1,
+            "url": "https://source.unsplash.com/1600x900/?island"
+        },
+        {
+            "id": 2,
+            "url": "https://source.unsplash.com/1600x900/?waterfall"
+        },
+        {
+            "id": 3,
+            "url": "https://source.unsplash.com/1600x900/?sunset"
+        },
+        {
+            "id": 4,
+            "url": "https://source.unsplash.com/1600x900/?paradise"
+        },
+        {
+            "id": 5,
+            "url": "https://source.unsplash.com/1600x900/?lake"
+        }
+    ]
+}
