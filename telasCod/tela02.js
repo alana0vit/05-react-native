@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ScrollView, TextInput } from 'react-native';
-import { Icon, Avatar, ListItem,Image } from 'react-native-elements';
+import { Icon, Avatar, ListItem, Image } from 'react-native-elements';
 
 export function Tela02() {
   const [search, setSearch] = useState('');
@@ -86,7 +86,6 @@ export function Tela02() {
                   </View>
                 </View>
               </ListItem>
-
             ))
           }
         </View>
