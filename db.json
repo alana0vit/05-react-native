@@ -17,9 +17,9 @@
         {
             "id": 2,
             "img": "https://randomuser.me/api/portraits/men/35.jpg",
-            "name": "dr. Ian Kyle",
+            "name": "Ian Kyle",
             "type": "Consultant - Nurse",
-            "reviews": "4.9 (52 Reviews)"
+            "reviews": "5.0 (68 Reviews)"
         }
     ],
     "places": [
@@ -85,45 +85,87 @@
     "destino": [
         {
             "id": 1,
-            "url": "https://source.unsplash.com/1600x900/?beach"
+            "url": "https://fastly.picsum.photos/id/465/800/600.jpg?hmac=TpadF5Inc-PTxMXMjB4q5pDPYlahe6CYRDeLbaOjRZk"
         },
         {
             "id": 2,
-            "url": "https://source.unsplash.com/1600x900/?mountains"
+            "url": "https://fastly.picsum.photos/id/503/200/300.jpg?grayscale&hmac=2N0AqGf_6RHp9YmT60-vATfvoOm9hCKf7rmrbrHWqMU"
         },
         {
             "id": 3,
-            "url": "https://source.unsplash.com/1600x900/?city"
-        },
-        {
-            "id": 4,
-            "url": "https://source.unsplash.com/1600x900/?forest"
-        },
-        {
-            "id": 5,
-            "url": "https://source.unsplash.com/1600x900/?desert"
+            "url": "https://picsum.photos/200/300.jpg"
         }
     ],
     "recomendacoes": [
         {
             "id": 1,
-            "url": "https://source.unsplash.com/1600x900/?island"
+            "url": "https://picsum.photos/id/237/200/300"
         },
         {
             "id": 2,
-            "url": "https://source.unsplash.com/1600x900/?waterfall"
+            "url": "https://picsum.photos/seed/picsum/200/300"
         },
         {
             "id": 3,
-            "url": "https://source.unsplash.com/1600x900/?sunset"
+            "url": "https://picsum.photos/200/300?grayscale"
+        }
+    ],
+    "mensagens": [
+        {
+            "id": 1,
+            "name": "Claudia Alves",
+            "message": "Do more of what you love.",
+            "time": "3m ago",
+            "unread": 3,
+            "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Dani Martinez",
+            "message": "Do your own thing.",
+            "time": "5m ago",
+            "unread": 1,
+            "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kimberly Nguyen",
+            "message": "Kindness is beautiful.",
+            "time": "1h ago",
+            "unread": 2,
+            "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
         },
         {
             "id": 4,
-            "url": "https://source.unsplash.com/1600x900/?paradise"
+            "name": "Mariana Napolitani",
+            "message": "Live your purpose.",
+            "time": "2h ago",
+            "unread": 1,
+            "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
         },
         {
             "id": 5,
-            "url": "https://source.unsplash.com/1600x900/?lake"
+            "name": "Olivia Wilson",
+            "message": "You got this.",
+            "time": "5h ago",
+            "unread": 0,
+            "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Rachelle Beaudry",
+            "message": "You're wonderful.",
+            "time": "Yesterday",
+            "unread": 0,
+            "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Soo Jin Ae",
+            "message": "Keep it simple.",
+            "time": "Yesterday",
+            "unread": 0,
+            "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
         }
     ]
 }
